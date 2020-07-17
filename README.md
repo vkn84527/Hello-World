@@ -94,12 +94,5 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [42. Windows Command line](Windows%20Command%20Line)
 
-# Community Contributions
 
-[How to Contribute](CONTRIBUTING.md)
 
-[Code of Conduct](CODE_OF_CONDUCT.md)
-
-# License
-
-[MIT License](LICENSE)
